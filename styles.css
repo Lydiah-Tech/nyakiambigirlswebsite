@@ -223,7 +223,7 @@ footer {
     }
 
     .anthem-card .anthem-content {
-        flex-direction: column;
+        flex-direction: row;
     }
 
     .gallery-content {
